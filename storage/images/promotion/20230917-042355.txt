@@ -1,0 +1,35 @@
+1) Login - OK
+2) Dashboard - OK
+	2.1) Pickup Request - OK (half-done)
+	2.2) Payment Request - OK
+		2.2.1) Payment Request success modal on submit
+		2.2.2) Current Balance Payment Details on click total parcel eye btn
+		2.2.3) Payment History
+		2.2.4) Track Parcel from Payment history
+	2.3) Return Request - OK
+	2.4) Track Parcel - OK
+3) Add Parcel - OK
+4) Shops - OK
+5) Total Parcel List - OK
+6) Parcel Staticts - NOT NOW!
+7) Track Parcel
+	7.1) Parcel packaging page - NOT NOW!
+	7.2) Parcel Tracking page - OK
+8) Coverage Area - OK
+9) Payment List (2.2)
+10) Merchant Statement - OK (Need some fix)
+11) Pickup Request List (2.1)
+12) Return Request List (2.3) - OK
+13) Delivery Complete Parcel List - OK
+	13.1) Track parcel (2.2.4) - OK
+14) Pricing Calculator - NOT NOW!
+15) Support - NOT NOW!
+16) Sign Up - OK
+17) Merchant Profile - OK
+18) Update Profile - OK
+
+*************************
+* Total:      23 pages  *
+* Completed:  19	*
+* Remains:    04	*
+*************************

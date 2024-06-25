@@ -1,0 +1,9 @@
+Add Expense: Product Expense
+
+expense_product_expenses=id, date, company_id, branch_id, product_expense_code, expense_category_id (expense_categories), expense_sector_id (expense_sectors), shop_id, purchaser_id, document_image, remarks, time_stam
+
+expense_product_details=id, product_id, product_details, unit_id, per_unit_price, total_unit, total_unit_price, expense_product_expense_id, time_stam 
+
+
+
+
